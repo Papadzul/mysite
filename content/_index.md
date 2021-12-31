@@ -1,7 +1,9 @@
 ---
 title: "Dennis Cabais"
 subtitle: "Teacher / Researcher / Statistician"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+description: "Dennis Cabais is a certified international mathematics teacher. His interests include, academic research, app development, instructional design, strategic intervention material development, statistics, and data science.
+
+His previous post includes Master Teacher at DepEd PH, Principal at National University."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
