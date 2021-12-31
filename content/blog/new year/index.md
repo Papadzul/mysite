@@ -35,6 +35,6 @@ summary(cars)
 
 You can also embed plots, for example:
 
-<img src="index_files/figure-html/pressure-1.png" width="672" />
+<img src="{{< blogdown/postref >}}index_files/figure-html/pressure-1.png" width="672" />
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
