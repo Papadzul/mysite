@@ -1,6 +1,6 @@
 ---
-title: "Title"
-author: "Author"
+title: "Subong Lang"
+author: "admin"
 date: "Date"
 output: 
   cleanrmd::html_document_clean:
